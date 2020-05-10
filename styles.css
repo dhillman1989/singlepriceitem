@@ -22,7 +22,7 @@ body {
 h3 {
   font-size: 1.2em;
   font-weight: 700;
-  margin-bottom: 1em;
+  margin-bottom: 0.6em;
 }
 
 h4 {
@@ -73,6 +73,10 @@ p {
 }
 
 .details {
+  padding-right: 100px;
+}
+
+.details {
   grid-row: 1/2;
   background: white;
 }
@@ -112,7 +116,6 @@ p {
 ul {
   list-style-type: none;
   padding: 0;
-  margin: 
   font-size: 12px;
   font-weight: 400;
 }
