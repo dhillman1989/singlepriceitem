@@ -1,2 +1,0 @@
-# singlepriceitem
-Created with CodeSandbox
